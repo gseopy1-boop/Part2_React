@@ -1,0 +1,35 @@
+.app-body{
+  text-align: center;
+  background: lightgrey;
+
+}
+.main{
+  margin: 2rem;
+}
+.image-container{
+  display: flex;
+  justify-content: center;
+}
+.highligh{
+  color: blueviolet;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border: 2px solid lightblue;
+  border-radius: 50%;
+}
+
+.btn{
+  width: 8rem;
+  height: 2rem;
+
+
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: deepskyblue;
+}
